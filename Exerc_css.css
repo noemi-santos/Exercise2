@@ -1,0 +1,21 @@
+/* styles.css */
+
+body {
+    text-align: center;
+    font-family: Arial;
+	background-color:#CCCCFF;
+}
+
+h1{
+    color:red;
+}
+
+p{
+	color:DarkSlateGrey;
+	text-align:justify;
+	text-indent:50px;
+}
+
+ul,ol{
+	text-align:left;
+}
